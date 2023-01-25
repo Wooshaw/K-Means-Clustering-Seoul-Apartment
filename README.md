@@ -19,6 +19,7 @@ This project is a real-estate clustering model built using scikit-learn library.
 3. The ability to change the number of clusters based on user input
 
 ### Tech Stack
+
 1. Python 3.x
 2. scikit-learn library for machine learning
 3. folium library for data visualization
@@ -29,6 +30,9 @@ This project is a real-estate clustering model built using scikit-learn library.
 1. Clone this repository 
 2. Run 'pip3 install -r requirements.txt' to install all necessary dependencies
 3. Run 'classification_model.ipynb'
+
+### Result: 
+<img width="642" alt="Screen Shot 2023-01-25 at 2 42 42 AM" src="https://user-images.githubusercontent.com/102776898/214517609-bed2a62d-275e-4a57-8720-7baa856a2677.png">
 
 <h2 id="License">License </h2>
 This project is licensed under the MIT License. See LICENSE for more information.
