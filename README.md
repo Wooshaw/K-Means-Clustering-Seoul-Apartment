@@ -38,8 +38,9 @@ This project is a real-estate clustering model built using scikit-learn library.
 This project is licensed under the MIT License. See LICENSE for more information.
 
 <h2 id="todo">TODOs </h2>
+
 1. Build a Web Application so that the user could use the interface to explore and analyze the potential apartment candidates by changing the number of clusters and interact with the map.
-1. Deploy the App on the Cloud
+1. Deploy the App on the Cloud.   
 
 Please note that it is important to have an internet connection to use the application as it pulls the data from APIs. Also the user should have an FourSquare API key to run the application.
 
