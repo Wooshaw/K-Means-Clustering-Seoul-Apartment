@@ -11,6 +11,7 @@
 This project is a real-estate clustering model built using scikit-learn library. It allows users to explore and analyze real-estate data to identify patterns and trends in different neighborhoods in Seoul. The user can find the apartments in a neighborhood that matches their preference the best using the model.
 
 <h2 id="project">Project Description </h2>
+
 ### Features:
 1. Data exploration and visualization using numpy, pandas, and folium
 2. Data Collection using FourSquare API
